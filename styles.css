@@ -1,0 +1,9 @@
+/* ここでは最低限だけ。必要なら後で細かく調整 */
+
+#preview-panel {
+    box-sizing: border-box;
+}
+
+#hover-preview-card {
+    box-sizing: border-box;
+}
